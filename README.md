@@ -1,6 +1,6 @@
 # LRFP-Detectors-and-Bypassers
 
-This repository aims to provide the implementers, detectors, and bypassers that are related to LRFP for Android devices, where, the abbreviation "LRFP" stands for Low-level, Rooting, Frameworks, and Plugins. 
+This repository aims to provide the implementers, detectors, and bypassers that are related to LRFP for Android devices, where the abbreviation "LRFP" stands for Low-level, Rooting, Frameworks, and Plugins. 
 
 This repository remains free and open-source in the past, present, and future. Please refer to [Implementers](./Implementers/README.md), [Detectors](./Detectors/README.md), and [Bypassers](./Bypassers/README.md) for details. Any pull request (PR) is welcome! 
 
@@ -14,7 +14,7 @@ The last update of this repository was at 5:00 on December 14th, 2025 (UTC+8).
 
 # LRFP-Detectors-and-Bypassers
 
-本存储库旨在为 Android 设备提供与 LRFP 有关的部署、检测和过检工具，其中，缩写“LRFP”代表底层、root、框架和插件。
+本存储库旨在为 Android 设备提供与 LRFP 有关的部署、检测和过检工具，其中缩写“LRFP”代表底层、root、框架和插件。
 
 本存储库在过去、现在和未来都保持免费且开源。详情请查看 [Implementers](./Implementers/README.md)、[Detectors](./Detectors/README.md) 和 [Bypassers](./Bypassers/README.md)，同时欢迎提交任何 Pull Request（PR）！
 
@@ -23,3 +23,4 @@ The last update of this repository was at 5:00 on December 14th, 2025 (UTC+8).
 开源社区应当是一个具有极客精神和极高贡献精神的纯净社区，近年来，一些[事件](./Events/README.md)频发，我们对其中的不友好事件感到心痛。我们呼吁开源社区保持内部团结与和谐，尊重开发者和开源许可。开源社区不应损害营利性机构的利益，营利性机构也不应抑制开源社区的发展。
 
 本存储库最后一次更新时间为 2025 年 12 月 14 日 5:00（中国标准时间）。
+
