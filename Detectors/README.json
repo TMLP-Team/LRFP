@@ -73,6 +73,14 @@
 			}
 		}, 
 		{
+			"name":"Duck Detector", 
+			"packageName":"com.studio.duckdetector", 
+			"officialLink":"The telegram channel is private. ", 
+			"developingPurpose":"E", 
+			"latestVersion":"v1.6.1-8d59eacb (3)", 
+			"releaseDate":"< 20251220"
+		}, 
+		{
 			"name":"Hunter", 
 			"packageName":"com.zhenxi.hunter", 
 			"developingPurpose":"E", 

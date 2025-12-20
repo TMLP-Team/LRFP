@@ -54,6 +54,14 @@ Momo $\rightarrow$ Native Root Detector $\rightarrow$ Native Test ++
 - **Release Date**:  September 19th, 2024
 - **Detection Remark**: Please check whether the Security Level is Level 1. The smaller the level, the better the device is. 
 
+### Duck Detector
+
+- **Package Name**: ``com.studio.duckdetector``
+- **Official Link**: The telegram channel is private. 
+- **Developing Purpose**: Environment Detection
+- **Latest Version**: ``v1.6.1-8d59eacb (3)``
+- **Release Date**: Before December 20th, 2025
+
 ### Hunter
 
 - **Package Name**: ``com.zhenxi.hunter``
@@ -381,6 +389,14 @@ Momo $\rightarrow$ Native Root Detector $\rightarrow$ 牛头人
 - **最新版本**：``v1.1.15-240919``
 - **发行日期**： 2024 年 9 月 19 日
 - **检测备注**：请检查 Security Level 是否为 L1，等级数值越小越好。
+
+### Duck Detector
+
+- **应用包名**：``com.studio.duckdetector``
+- **官方链接**：[The telegram channel is private. ](The telegram channel is private. )
+- **开发用途**：环境检测
+- **最新版本**：``v1.6.1-8d59eacb (3)``
+- **发行日期**：早于 2025 年 12 月 20 日
 
 ### Hunter
 

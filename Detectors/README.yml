@@ -58,6 +58,12 @@
   detectionRemark:
     en: 'Please check whether the Security Level is Level 1. The smaller the level, the better the device is. '
     zh-CN: 请检查 Security Level 是否为 L1，等级数值越小越好。
+- name: Duck Detector
+  packageName: com.studio.duckdetector
+  officialLink: 'The telegram channel is private. '
+  developingPurpose: E
+  latestVersion: v1.6.1-8d59eacb (3)
+  releaseDate: < 20251220
 - name: Hunter
   packageName: com.zhenxi.hunter
   developingPurpose: E
